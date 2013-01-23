@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-dropdowns",
+  "version": "2.2.2",
+  "description": "Bootstrap Dropdown Component",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CamShaft/bootstrap-dropdowns.git"
+  },
+  "author": "",
+  "license": "APLv2",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.2.2.tar.gz",
+    "recess": "~1.1.6"
+  }
+}
