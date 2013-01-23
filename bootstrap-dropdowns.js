@@ -34,6 +34,8 @@
         })
       }
 
+  module.exports = Dropdown;
+
   Dropdown.prototype = {
 
     constructor: Dropdown
