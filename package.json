@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-dropdowns",
-  "version": "2.2.2",
+  "version": "2.3.1",
   "description": "Bootstrap Dropdown Component",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "license": "APLv2",
   "readmeFilename": "Readme.md",
   "devDependencies": {
-    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.2.2.tar.gz",
+    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.3.1.tar.gz",
     "recess": "~1.1.6"
   }
 }
