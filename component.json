@@ -1,17 +1,13 @@
 {
-  "name": "bootstrap-dropdowns",
-  "repo": "CamShaft/bootstrap-dropdowns",
-  "description": "Bootstrap Dropdown Component",
+  "name": "bootstrap-dropdown-css",
+  "repo": "fs-components/bootstrap-dropdown-css",
+  "description": "Bootstrap Dropdown CSS",
   "version": "2.3.1",
   "keywords": [],
   "dependencies": {
-    "component/jquery": "1.8.2"
   },
   "development": {},
   "license": "APLv2",
-  "scripts": [
-    "bootstrap-dropdowns.js"
-  ],
   "styles": [
     "bootstrap-dropdowns.css"
   ]

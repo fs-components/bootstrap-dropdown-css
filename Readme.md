@@ -1,9 +1,9 @@
 
-# bootstrap-dropdowns
+# bootstrap-dropdown-css
 
-  Bootstrap Dropdown Component
+  Bootstrap Dropdown CSS Component
 
 
 ## Installation
 
-    $ component install CamShaft/bootstrap-dropdowns
+    $ component install fs-components/bootstrap-dropdown-css
