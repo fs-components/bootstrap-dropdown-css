@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-dropdown-css",
+  "repo": "fs-components/bootstrap-dropdown-css",
+  "description": "Bootstrap Dropdown CSS",
+  "version": "2.3.1",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {},
+  "license": "APLv2",
+  "styles": [
+    "bootstrap-dropdowns.css"
+  ]
+}
